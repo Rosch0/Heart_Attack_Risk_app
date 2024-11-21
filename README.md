@@ -2,7 +2,9 @@
 ENG----------------------------------------------------------------------------
 This project uses Random Forest and data from kaggle to predict the probability and risk of heart attack given a patient's entered medical information.
 The model probability efficiency is estimated at ~91%
-    About this dataset
+
+About this dataset
+    
 Age : Age of the patient
 
 Sex : Sex of the patient (1=male, 0=female)
@@ -35,7 +37,9 @@ target : 0= less chance of heart attack 1= more chance of heart attack
 PL-----------------------------------------------------------------------------
 Ten projekt za pomocą Losowego Lasu oraz danych z kaggle przewiduje prawdopodobieństwo i ryzyko wystąpienia zawału serca poprzez wpisane dane medyczne pacjenta.
 Skuteczność prawdopodobieństwa modelu szacuje się na ~91%
-  O tym zestawie danych
+
+O tym zestawie danych
+  
 Wiek: wiek pacjenta
 
 Płeć: płeć pacjenta (1=mężczyzna, 0=kobieta)
